@@ -1,0 +1,22 @@
+{
+    "name": "bianyq/ali_apis",
+    "description": "1688api封装",
+    "authors": [
+        {
+            "name": "byq",
+            "email": "812674960@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bianyq\\AliApis": "src"
+        }
+    },
+    "repositories":[  
+        {  
+            "type":"git",  
+            "url":"https://github.com/bianyunqi/AliOpen.git" 
+        }
+    ] 
+}
